@@ -1,3 +1,4 @@
+![logo](https://github.com/mshipan/mshipan/blob/main/likedin.JPG)
 # 💫 About Me:
 🔭 I’m currently learning on Next.js, Redux and Typescript<br>👯 I’m looking for a MERN Stack Developer job<br>💬 Ask me about MERN Stack Development
 
